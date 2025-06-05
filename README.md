@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @EclZn
-- 👀 I’m interested in ... Cross-Platform apps and Full Stack Development
-- 🌱 I’m currently learning ... React Native Environment
+- 👋 Hi, I’m @krbck  
+- 👨‍💻 Interested in: App Development & Web Applications 
+- 🔧 Tools: React.js, React Native, Firebase, JavaScript, TypeScript, Node.js  
+- 🚀 Currently exploring: Scalable app architectures, cloud deployment, and server-side system management
