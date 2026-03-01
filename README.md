@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @krbck  
-- 👨‍💻 Interested in: App Development & Web Applications 
-- 🔧 Tools: React.js, React Native, Firebase, JavaScript, TypeScript, Node.js  
-- 🚀 Currently exploring: Scalable app architectures, cloud deployment, and server-side system management
+👋 Hi, I’m Burak.
+👨‍💻 DevOps Intern focused on cloud-native infrastructure and automation
+⚙️ Core Stack: Kubernetes, Docker, Helm, ArgoCD, Azure DevOps
+🔁 CI/CD & GitOps: Azure DevOps Pipelines, GitHub Actions, ArgoCD
+📊 Monitoring & Operations: Prometheus, Grafana, Rancher
+🚀 Experience: Production-grade cluster migrations, API Gateway transitions, scalable deployment architectures
